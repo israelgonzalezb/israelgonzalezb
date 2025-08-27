@@ -1,11 +1,11 @@
 ﻿# 👋 Welcome to Israel Gonzalez-Brooks' GitHub
 
-I'm a full-stack software engineer specializing in building scalable, AI-integrated applications using modern stacks like PERN (PostgreSQL, Express, React, Node.js). With a background in [briefly insert relevant experience, e.g., enterprise development and freelance projects], I focus on creating "Cathedral-Class" projects that demonstrate 400x engineering excellence—robust, innovative, and production-ready.
+I'm a full-stack software engineer specializing in building scalable, AI-integrated applications using modern stacks like PERN (PostgreSQL, Express, React, Node.js). With a background in freelance projects, I focus on creating "Cathedral-Class" projects that demonstrate 400x engineering excellence—robust, innovative, and production-ready.
 
 ## About Me
 - **Professional Focus:** Architecting end-to-end solutions for complex problems, from AI-driven tools to efficient APIs.
 - **Core Values:** Integrity, continuous learning, and delivering high-impact code.
-- **Fun Fact:** When not coding, I'm [add personal touch, e.g., exploring AI ethics or hiking in [location]].
+- **Fun Fact:** When not coding, I'm exploring AI ethics or taking a meditative walk.
 
 ## My Tech Stack
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,8 +17,6 @@ I'm a full-stack software engineer specializing in building scalable, AI-integra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-(Customize badges via shields.io for additional tools like AWS, Jest, etc., based on your expertise.)
-
 ## Current Mission: Cathedral Projects
 I'm building three flagship "Cathedral-Class" portfolio projects to showcase elite engineering:
 - **[Scribe-AI](https://github.com/israelgonzalezb/scribe-ai):** An AI-powered transcription and note-taking app leveraging natural language processing.
@@ -28,9 +26,8 @@ I'm building three flagship "Cathedral-Class" portfolio projects to showcase eli
 These projects are in active development—watch for updates!
 
 ## Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-linkedin-handle] (Update with your actual link)
-- **Portfolio Website:** [your-portfolio-url.com] (Link to a personal site if available)
-- **Email:** [your-email@example.com] for collaborations or opportunities
+- **X:** [x.com/izzyz] (@izzyz)
+- **Email:** [israelgonzalezb@gmail.com] for collaborations or opportunities
 - Let's chat about engineering challenges—feel free to open an issue or DM!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelgonzalezb&show_icons=true&theme=radical)
