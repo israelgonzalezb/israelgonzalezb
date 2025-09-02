@@ -23,7 +23,7 @@ I'm a full-stack software engineer specializing in scalable, AI-integrated appli
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) <!-- Added for cloud/AI deployment -->
 
 For a visual skill overview:  
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,python,tensorflow,docker,aws,git" alt="Skill Icons" /> <!-- From tandpfun/skill-icons; customize as needed -->
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,python,git" alt="Skill Icons" /> <!-- From tandpfun/skill-icons; customize as needed -->
 
 ## 🏛️ Cathedral-Class Projects
 These flagship projects demonstrate elite engineering—watch for updates as I integrate cutting-edge AI features:
