@@ -1,6 +1,6 @@
 # 👋 Israel Gonzalez-Brooks | Full-Stack AI Architect
 
-![Profile Banner](https://raw.githubusercontent.com/israelgonzalezb/israelgonzalezb/refs/heads/master/github_banner2.png)
+![Profile Banner](https://raw.githubusercontent.com/israelgonzalezb/israelgonzalezb/refs/heads/master/github_banner.png)
 
 I'm a full-stack software engineer specializing in scalable, AI-integrated applications using modern stacks like PERN (PostgreSQL, Express, React, Node.js). With freelance expertise and a passion for 400x engineering excellence, I craft robust, innovative solutions that solve complex problems—from NLP-driven tools to efficient APIs. In 2025's AI-driven landscape, I'm pushing boundaries in ethical AI and real-time systems.
 
