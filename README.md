@@ -27,10 +27,8 @@ Complex IPTV aggregation engine. Utilizes regex pipelines, persistent state mana
 Modified version of the terminal file manager Yazi. Engineered custom Windows-specific process spawning fixes, bypassing internal shell-detection for native `/c start "" "%1"` execution while maintaining Tokio async event loop stability.
 
 ## 💠 TELEMETRY & CONTACT
-Available for specialized contract architecture: MCP server consulting, bespoke Nushell environment engineering, and open-source bounties.
+Available for specialized contract architecture: MCP server consulting, bespoke terminal environment engineering, and open-source bounties.
 
-* **Primary Vector:** israelgonzalezbrooks@gmail.com
-* **Live Feed:** [x.com/izzyz](https://x.com/izzyz)
 * **Objective:** Structural systems engineering and sovereign research funding.
 
 [Status: Sovereign | Environment: Nu]
